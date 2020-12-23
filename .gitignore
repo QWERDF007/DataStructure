@@ -1,0 +1,11 @@
+CMakeCache.txt
+cmake_install.cmake
+*CMakeFiles/
+node_modules/
+
+*.vcxproj
+*.vcxproj.*
+*.sln
+
+package.json
+package-lock.json
