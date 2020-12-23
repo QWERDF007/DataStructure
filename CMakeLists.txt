@@ -10,4 +10,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_subdirectory("Chapter1")
+add_subdirectory("Chapter2")

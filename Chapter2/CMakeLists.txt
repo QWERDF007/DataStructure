@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-set(PROJECT_NAME Contours)
+set(PROJECT_NAME Chapter2)
 
 project(${PROJECT_NAME})
 
